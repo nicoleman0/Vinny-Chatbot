@@ -1,6 +1,6 @@
 # 💬 Vinny the Wiseguy 
 
-## ⭕ Overview
+## Overview
 
 This is a simple command-line chat application that lets you interact with "Vinny," a Gemini AI character designed to respond as a mobster from New York. Vinny uses Google's Gemini AI model through the Google AI Python SDK.
 
