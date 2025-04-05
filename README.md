@@ -1,25 +1,25 @@
-# Vinny the Wiseguy
+# 💬 Vinny the Wiseguy 
 
-## Overview
+## ⭕ Overview
 
 This is a simple command-line chat application that lets you interact with "Vinny," a Gemini AI character designed to respond as a mobster from New York. Vinny uses Google's Gemini AI model through the Google AI Python SDK.
 
 ## What Vinny Can Do
 
-- Vinny responds as a friendly Italian mobster with wisdom, humor, and loyalty themes
-- Command-line interface for easy interaction
-- Chat history tracking and display
-- Easy to use conversation flow
+- 🤌 Vinny responds as a friendly Italian mobster with wisdom, humor, and loyalty themes
+- 🖥️ Command-line interface for easy interaction
+- 📜 Chat history tracking and display
+- 🌊 Easy to use conversation flow
 
 ## Prerequisites
 
-- Python 3.6+
-- Google Cloud account with access to the Gemini API
-- Gemini API key
+- 🐍 Python 3.6+
+- ☁️ Google Cloud account with access to the Gemini API
+- 🔑 Gemini API key
 
 ## Installing Vinny
 
-1. Clone this repository or download the script
+1. Clone or download this repo
 
 2. Install the required dependencies:
    ```bash
