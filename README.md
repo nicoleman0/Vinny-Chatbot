@@ -23,7 +23,7 @@ This is a simple command-line chat application that lets you interact with "Vinn
 
 2. Install the required dependencies:
    ```bash
-   pip install google-generativeai python-dotenv
+   pip install google-genai python-dotenv
    ```
 
 3. Create a `.env` file in the same directory as the script with your Gemini API key:
@@ -35,7 +35,7 @@ This is a simple command-line chat application that lets you interact with "Vinn
 
 1. Run the script:
    ```bash
-   python vinny.py
+   python3 vinny.py
    ```
 
 2. The prompt will appear, and you can start chatting with Vinny!
